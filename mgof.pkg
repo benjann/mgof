@@ -1,0 +1,9 @@
+v 3
+d mgof: Stata module to perform goodness-of-fit tests for multinomial data
+d 
+d Author: Ben Jann, University of Bern, ben.jann@soz.unibe.ch
+d
+d Distribution-Date: 20210118
+f mgofi.ado
+f mgof.hlp
+f mgof.ado
